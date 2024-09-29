@@ -1,0 +1,10 @@
+[package]
+name = "ode5bmp"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+
+[dev-dependencies]
+rstest = "0.23.0"
